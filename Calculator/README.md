@@ -1,4 +1,3 @@
-{\rtf1}
-#Calculator 
+Calculator 
 
-This is basic calculation using HTML CSS and Java Script [Click to view]()
+This is basic calculation using HTML CSS and Java Script [Click to view](https://gulshan0201.github.io/HTML-CSS-JavaScript-Projects/Calculator/index.html)
