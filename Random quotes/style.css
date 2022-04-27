@@ -1,0 +1,45 @@
+body{
+  background: #069A8E;
+}
+
+.container{
+  /* border: 2px solid black; */
+  width: 95%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: #f4d1ae;
+}
+
+.container h2{
+  font-size: 1.5rem;
+}
+
+
+.quotes{
+  width: 900px;
+  height: 450px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #557B83;
+  background-color: #FAF5E4;
+  border: 10px solid #f4d1ae;
+}
+
+.quotes p, h3{
+  font-size: 1.5rem;
+}
+
+/* for responsive design @media query is used */
+
+@media(max-width:480px){
+  .quotes p, h3{
+    font-size: 1rem;
+  }
+  
+}
+
