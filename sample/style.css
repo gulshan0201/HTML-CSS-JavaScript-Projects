@@ -1,0 +1,17 @@
+html {
+  /* font-size: 10px; */
+  background-color: rgb(204, 228, 99);
+  margin: 0;
+  padding: 0;
+}
+
+header{
+    /* display: flex; */
+    background-color: bisque;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
